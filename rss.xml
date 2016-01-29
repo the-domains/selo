@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Selo]]></title>
         <description><![CDATA[Selo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/selo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 16:49:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 16:49:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/selo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We’ve been building tools for social media marketing for quite a while. It came to us as a surprise that you could use many great fake follower checking tools for Twitter, like TwitterAudit, but there was none for Instagram. The reason behind this is that the public Twitter API is much more permissive than Instagram’s.</p>]]></description>
+            <link>https://thegrid.ai/selo/128e3ed8-0886-4561-9cc1-979e3af0cb4c/index.html</link>
+            <guid isPermaLink="false">128e3ed8-0886-4561-9cc1-979e3af0cb4c</guid>
+            <pubDate>Fri, 29 Jan 2016 16:48:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing some stuff out]]></title>
             <description><![CDATA[<article><h1>Testing some stuff out</h1><p>Medium is a community of readers and writers offering unique perspectives on ideas large and small.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a68f9bd99e435f5b915901ac721700e37fe0f7f3.jpg"></article>]]></description>
-            <link>undefinedtesting-some-stuff-out/index.html</link>
+            <link>https://thegrid.ai/selo/testing-some-stuff-out/index.html</link>
             <guid isPermaLink="false">af0e4b71-fa99-4440-88eb-576479a38fae</guid>
             <pubDate>Fri, 29 Jan 2016 16:48:28 GMT</pubDate>
         </item>
