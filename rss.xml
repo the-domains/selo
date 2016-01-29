@@ -4,8 +4,15 @@
         <description><![CDATA[Selo]]></description>
         <link>https://thegrid.ai/selo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 16:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 16:51:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/selo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eabbb1b-43bb-497d-b996-72381ece93b5.jpg">]]></description>
+            <link>https://thegrid.ai/selo/dbf608b1-bd6f-41d2-a76b-f5d80d58ae74/index.html</link>
+            <guid isPermaLink="false">dbf608b1-bd6f-41d2-a76b-f5d80d58ae74</guid>
+            <pubDate>Fri, 29 Jan 2016 16:51:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We’ve been building tools for social media marketing for quite a while. It came to us as a surprise that you could use many great fake follower checking tools for Twitter, like TwitterAudit, but there was none for Instagram. The reason behind this is that the public Twitter API is much more permissive than Instagram’s.</p>]]></description>
